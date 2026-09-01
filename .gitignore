@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Google Colab
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large ML files
+*.h5
+*.keras
+*.ckpt

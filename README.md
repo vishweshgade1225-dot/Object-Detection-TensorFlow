@@ -14,6 +14,14 @@ The implementation uses **TensorFlow, OpenCV, NumPy, Pandas, and Matplotlib** fo
 * Use OpenCV for image processing.
 * Visualize and analyze detection results.
 
+## Dataset
+
+The project uses image data for object detection. The input images are
+provided during execution and are used for preprocessing and object
+detection.
+
+The dataset is not included in this repository due to file size.
+
 ## 🛠️ Technologies Used
 
 | Technology   | Purpose                            |

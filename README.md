@@ -73,7 +73,16 @@ pip install tensorflow pandas numpy opencv-python matplotlib
 
 ## 📊 Results
 
-The notebook processes the provided input images and performs object detection. The detected results are visualized using Python-based image processing and plotting tools.
+The object detection model was tested on a sample road image. The original
+image is processed and the detected vehicle is highlighted using a bounding box.
+
+### Original Image
+
+![Original Image](results/original_image.png)
+
+### Detection Result
+
+![Detection Result](results/detection_result.png)
 
 ## 📚 Learning Outcomes
 
